@@ -10,7 +10,7 @@
 - Data cleaning
 - Data visualization
 - Dashboard creation                    
-=================================================================================================
+========================================================================================
 
 Deloitte Australia Data Analytics Job Simulation on Forage
 
