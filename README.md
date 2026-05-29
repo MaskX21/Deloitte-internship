@@ -1,4 +1,16 @@
-                    
+# Deloitte Data Analytics Project
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Tasks Performed
+- Data cleaning
+- Data visualization
+- Dashboard creation                    
+=================================================================================================
 
 Deloitte Australia Data Analytics Job Simulation on Forage
 
